@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="txttitulo">¡Bienvenidos!</string>
+    <string name="btnregistro">Registrar</string>
+    <string name="btnInicio">Iniciar Sesión</string>
+    <string name="txttituloregis">¡Registro!</string>
+
+
+
+    //Inicio
+    <string name="txthola">¡¡Hola!!</string>
+    <string name="txtdatos">Ingresa tus datos para inicar sesión</string>
+    <string name="txtmail">Email</string>
+    <string name="txtpass">Password</string>
+    <string name="btninicio">Iniciar Sesión</string>
+    <string name="btncontra">Olvide mi contraseña</string>
+    <string name="btnusuario">Olvide mi usuario</string>
+
+    //Registro
+    <string name="btnatras">Atras</string>
+    <string name="txtregis">Registro</string>
+    <string name="txtnombrer">Nombre</string>
+    <string name="txtapelpar">Apellido Paterno</string>
+    <string name="txtapelmar">Apellido Materno</string>
+    <string name="txtfecha">Fecha Nacimiento</string>
+    <string name="txtsexo">Sexo:</string>
+    <string name="rbtnhombre">Hombre</string>
+    <string name="rbtnmujer">Mujer</string>
+    <string name="switchdep">Deporte</string>
+    <string name="switchmusi">Musica</string>
+    <string name="switchbail">Baile</string>
+    <string name="txtcontrar">Contraseña</string>
+    <string name="txtpassr">Contraseña</string>
+    <string name="txtrepecontr">Repetir Contraseña</string>
+    <string name="txtfono">Telefono</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="listafono"></string>
+    <string name="btnregistar">Registrarse</string>
+
+
+
+
+
+</resources>
